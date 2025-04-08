@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Hesper! 🌻</h1>
 <h3 align="center">Software Engineer | Community Worker | Bookworm</h3>
 <h5 align="center">About Me:</h5>
-<p align="center"> Upon graduating college, I went straight into a research assistant role in a hospital focused on skin cancer. My time in this lab allowed me to develop various skills, including engaging with patients and coding. Now I’m pursuing a career in software engineering to bridge the gaps present in tech and healthcare/public health. </p>
+<p align="center"> Upon graduating college, I dove straight into a research assistant to study skin cancer at a children's hospital. My time in this lab allowed me to develop various skills, including engaging with patients and coding. Now I’m pursuing a career in software engineering to bridge the gaps present in tech and healthcare/public health. </p>
 
 🌱 Pronouns: they/she
 
