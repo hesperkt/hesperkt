@@ -29,7 +29,7 @@
 
 ###
 <h5 align="center">With roots in California and Texas, I now reside in Massachusetts <3</h5>
-<p align="left"> - 📚 I'm currently trying to read at least one book a week!<br>- 🌿 In my free time I love to go on walks and bask in the sun <3<br>- 
+<p align="left"> - 👾 You can find me tinkering away at my coding projects and making collages <br>- 📚 I'm currently trying to read at least one book a week!<br>- 🌿 In my free time I love to go on walks and bask in the sun <3
 
 ###
 
@@ -59,6 +59,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/hesper15">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hesper15&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ###
 
 <h3 align="center">My Stats : 🐛</h3>
@@ -67,16 +77,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hesperkt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/hesper15">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hesper15&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
