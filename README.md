@@ -29,7 +29,7 @@
 
 ###
 <h5 align="center">With roots in California and Texas, I now reside in Massachusetts <3</h5>
-<p align="left"> - 📚 I'm currently trying to read at least one book a week!<br>- 🌿 In my free time I love to go on walks and bask in the sun <3<br>- 🐀 I’m working as an unpaid private chef and unknown local food reviewer.. someone's got to do it!</p>
+<p align="left"> - 📚 I'm currently trying to read at least one book a week!<br>- 🌿 In my free time I love to go on walks and bask in the sun <3<br>- 
 
 ###
 
