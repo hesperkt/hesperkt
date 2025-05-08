@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/c2/04/78/c2047855b98271c65a5746ec5e52d8a5.gif"  />
+  <img height="300" src="https://i.pinimg.com/originals/c2/04/78/c2047855b98271c65a5746ec5e52d8a5.gif"  />
 </div>
 
 ###
@@ -65,18 +65,6 @@
   <a href="https://open.spotify.com/user/hesper15">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=hesper15&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-###
-
-<h3 align="center">My Stats : 🐛</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hesperkt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
